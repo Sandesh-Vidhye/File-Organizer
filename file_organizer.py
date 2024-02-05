@@ -1,4 +1,4 @@
-# Project Submiited by Mohil Wankar
+# Project Submiited by Sandesh Vidhye
 
 def find_name(line_parts):
     return line_parts[0]
